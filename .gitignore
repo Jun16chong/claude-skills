@@ -8,3 +8,6 @@ Thumbs.db
 
 # Node
 node_modules/
+
+# CodeGraph index
+.codegraph/
