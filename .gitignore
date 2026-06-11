@@ -11,3 +11,26 @@ node_modules/
 
 # CodeGraph index
 .codegraph/
+
+# Keil MDK build artifacts
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.lnp
+*.sct
+*.dep
+*.lst
+*.map
+*.build_log.htm
+*.dbgconf
+*.uvguix.*
+*.uvoptx
+Objects/
+Listings/
+DebugConfig/
+
+# JLink
+JLinkLog.txt
+JLinkSettings.ini
